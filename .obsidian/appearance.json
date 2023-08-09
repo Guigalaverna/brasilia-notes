@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Cantarell",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "img-grids-floats"
+  ]
+}

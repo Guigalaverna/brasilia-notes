@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "156c0bacabfb35bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d665fabf6d86b4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d2b92cc7ef54d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8754d699c7c179eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "48486400f08faff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ebbd5f4398ce42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e941a8f553ceed6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31ec447b848c9800",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7b40c5a1ee45ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a4a32885aa3153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef98d3e381449a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6f027c855bc43b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28c676c5b6d56c1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c868e018673d7caa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matérias/Biologia/Biologia B/1° Lei de Mendel.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c9d2b92cc7ef54d0",
+  "lastOpenFiles": [
+    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+    "Matérias/Biologia/Glossário.md",
+    "Assets/Pasted image 20230901103340.png",
+    "Assets/Pasted image 20230901102126.png",
+    "Pasted image 20230901102106.png",
+    "Assets",
+    "Matérias/História/Facismo.md",
+    "2023-09-01.md",
+    "Matérias/Índice.md",
+    "Home.md",
+    "Matérias/Matemática/Matemática B/Sem título.md",
+    "Provas e Exercícios",
+    "Recursos de Estudo",
+    "Anotações Gerais",
+    "Matérias/Redação",
+    "Matérias/Análise Linguística",
+    "Matérias/Literatura",
+    "Matérias/História",
+    "Matérias/Geografia",
+    "Matérias/Biologia/Biologia B"
+  ]
+}
