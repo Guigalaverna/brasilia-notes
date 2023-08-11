@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7ebbd5f4398ce42",
+  "active": "70230b5dfa9bfd59",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Mapas Mentais/Genética.canvas",
