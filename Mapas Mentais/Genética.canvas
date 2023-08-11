@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"f45d45ca8e99c3ff","type":"text","text":"> *Toda característica é expressa por um par de genes*","x":601,"y":-212,"width":250,"height":101},
+		{"id":"dbf931d6d4f3aae5","type":"text","text":"> Experimento de Mendel","x":601,"y":-332,"width":250,"height":72},
+		{"id":"cd8d5d1e610280c6","type":"text","text":"> Mendel notou que, ao cruzar dois indivíduos, a 2ª geração de descendentes terá características recessivas, semelhante da geração parental","x":1041,"y":-232,"width":400,"height":164},
+		{"id":"e797701b3da4704d","type":"file","file":"Assets/Pasted image 20230901102126.png","x":1601,"y":-293,"width":396,"height":287},
+		{"id":"27d681f7c1ebc48e","type":"text","text":"1° Lei de Mendel","x":161,"y":-260,"width":250,"height":60},
+		{"id":"1ed755390d777475","type":"text","text":"Genética #prova","x":-200,"y":-260,"width":250,"height":60},
+		{"id":"c9b536b2fd9e508b","type":"text","text":"> Solução para demonstrar o cruzamento de indivíduos","x":601,"y":-6,"width":250,"height":123},
+		{"id":"646f98e4f3ec24ac","type":"text","text":"> Caso haja um alelo letal presente, o indivíduo morerá","x":601,"y":215,"width":250,"height":108},
+		{"id":"48a0402129b50f77","type":"file","file":"Assets/Pasted image 20230901103340.png","x":1022,"y":85,"width":399,"height":178},
+		{"id":"6722bb026098df3e","type":"text","text":"Diagrama de Punnett","x":161,"y":25,"width":250,"height":60},
+		{"id":"b2ac01e1c2fc1d19","type":"text","text":"Alelo letal","x":161,"y":241,"width":250,"height":55},
+		{"id":"5a273a0f98af1b1c","type":"text","text":"[[1° Lei de Mendel#Dominância completa|Completa]]","x":601,"y":-647,"width":250,"height":50},
+		{"id":"f59f666213af540b","type":"text","text":"[[1° Lei de Mendel#Dominância incompleta|Incompleta]]","x":601,"y":-537,"width":250,"height":60},
+		{"id":"06dc187dfd27ee73","type":"text","text":"Dominância","x":161,"y":-597,"width":250,"height":60},
+		{"id":"d0c8902286bb8ffe","type":"text","text":"> Um gene prevalece na expressão da característica. Aquele que prevalece no par é chamado de **gene dominante**, em contrapartida, aquele que é \"desligado\" é o **gene recessivo**","x":961,"y":-982,"width":360,"height":180},
+		{"id":"e4d00e5191ca91c4","type":"text","text":"> Por padrão, genes dominantes são anotados por letras em maiúsculo e o gene recessivo em miniúsculo","x":1421,"y":-762,"width":280,"height":140},
+		{"id":"fac12a16187cbb8d","type":"text","text":"> Haverá a expressão dos dois genes, porém, haverá aquele que se expressa com maior intensidade. Esse grau é chamado de **penetrância**","x":961,"y":-580,"width":360,"height":147},
+		{"id":"ea51b305f57feccb","type":"text","text":"> Se a intensidade de expressão for a mesma para ambos genes, então a situação é chamada de **codominância**","x":1441,"y":-557,"width":380,"height":101}
+	],
+	"edges":[
+		{"id":"d64df6a45607291c","fromNode":"1ed755390d777475","fromSide":"top","toNode":"06dc187dfd27ee73","toSide":"left"},
+		{"id":"8a454253f33b37cd","fromNode":"06dc187dfd27ee73","fromSide":"right","toNode":"5a273a0f98af1b1c","toSide":"left"},
+		{"id":"e127f75e3f28f0ed","fromNode":"06dc187dfd27ee73","fromSide":"right","toNode":"f59f666213af540b","toSide":"left"},
+		{"id":"a891daa09c683fb9","fromNode":"1ed755390d777475","fromSide":"right","toNode":"27d681f7c1ebc48e","toSide":"left"},
+		{"id":"dede0396b13acff9","fromNode":"27d681f7c1ebc48e","fromSide":"right","toNode":"f45d45ca8e99c3ff","toSide":"left"},
+		{"id":"95330072090a4c8a","fromNode":"5a273a0f98af1b1c","fromSide":"top","toNode":"d0c8902286bb8ffe","toSide":"left"},
+		{"id":"ea7ac1a6e981dde5","fromNode":"d0c8902286bb8ffe","fromSide":"right","toNode":"e4d00e5191ca91c4","toSide":"top"},
+		{"id":"111f3c7525372dc0","fromNode":"f59f666213af540b","fromSide":"right","toNode":"fac12a16187cbb8d","toSide":"left"},
+		{"id":"848042c9a98fcf07","fromNode":"fac12a16187cbb8d","fromSide":"right","toNode":"ea51b305f57feccb","toSide":"left"},
+		{"id":"9fe7e938bf4d2afe","fromNode":"1ed755390d777475","fromSide":"bottom","toNode":"6722bb026098df3e","toSide":"left"},
+		{"id":"a6b9dc96fe6a8eb6","fromNode":"6722bb026098df3e","fromSide":"right","toNode":"c9b536b2fd9e508b","toSide":"left"},
+		{"id":"2145a20cd9b3b9ab","fromNode":"c9b536b2fd9e508b","fromSide":"right","toNode":"48a0402129b50f77","toSide":"left"},
+		{"id":"59021c637c89cf26","fromNode":"1ed755390d777475","fromSide":"bottom","toNode":"b2ac01e1c2fc1d19","toSide":"left"},
+		{"id":"ad86c1b11e793428","fromNode":"b2ac01e1c2fc1d19","fromSide":"right","toNode":"646f98e4f3ec24ac","toSide":"left"},
+		{"id":"425f47ebc626399c","fromNode":"27d681f7c1ebc48e","fromSide":"right","toNode":"dbf931d6d4f3aae5","toSide":"left"},
+		{"id":"e7c985373a96f834","fromNode":"dbf931d6d4f3aae5","fromSide":"right","toNode":"cd8d5d1e610280c6","toSide":"left"},
+		{"id":"398c0e540b0c5bbf","fromNode":"cd8d5d1e610280c6","fromSide":"right","toNode":"e797701b3da4704d","toSide":"left"}
+	]
+}

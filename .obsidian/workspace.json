@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,6 +142,9 @@
   },
   "active": "f7ebbd5f4398ce42",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Mapas Mentais/Genética.canvas",
+    "Mapas Mentais/Facismo.canvas",
     "Mapas Mentais/Untitled.md",
     "Mapas Mentais",
     "Recursos de Estudo",
