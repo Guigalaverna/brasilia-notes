@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9c966cc9e3e87ae1",
+        "id": "59b990dd5a520513",
         "type": "tabs",
         "children": [
           {
-            "id": "70230b5dfa9bfd59",
+            "id": "417a5669d9f9ddd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Mapas Mentais/Genética.canvas",
+                "viewState": {
+                  "x": 898.5,
+                  "y": -329.5,
+                  "zoom": -0.6167708587168353
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mapas Mentais/Genética.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mapas Mentais/Genética.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,11 +128,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Untitled.md"
+                "file": "Mapas Mentais/Genética.canvas"
               }
             }
+          },
+          {
+            "id": "4f2ce1e642e10f21",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -132,16 +150,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7ebbd5f4398ce42",
+  "active": "417a5669d9f9ddd4",
   "lastOpenFiles": [
+    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+    "Mapas Mentais/Genética.canvas",
+    "Untitled.md",
+    "Assets/Pasted image 20230901103340.png",
     "Mapas Mentais/Untitled.md",
     "Mapas Mentais",
     "Recursos de Estudo",
@@ -153,9 +175,7 @@
     "Matérias/Matemática/Matemática B",
     "Matérias/Matemática/Matemática A",
     "Matérias/Matemática",
-    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Matérias/Biologia/Glossário.md",
-    "Assets/Pasted image 20230901103340.png",
     "Assets/Pasted image 20230901102126.png",
     "Pasted image 20230901102106.png",
     "Matérias/História/Facismo.md",
