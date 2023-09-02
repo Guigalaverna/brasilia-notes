@@ -11,14 +11,11 @@
             "id": "417a5669d9f9ddd4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapas Mentais/Genética.canvas",
-                "viewState": {
-                  "x": 890.8328045685279,
-                  "y": -216.02550761421315,
-                  "zoom": -0.6167708587168353
-                }
+                "file": "Matérias/História/Facismo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais/Genética.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais/Genética.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Genética.canvas"
+                "file": "Matérias/História/Facismo.md"
               }
             }
           },
@@ -160,8 +158,11 @@
   },
   "active": "417a5669d9f9ddd4",
   "lastOpenFiles": [
-    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
+    "Matérias/História/Facismo-old.md",
+    "Matérias/História/Facismo.md",
     "Mapas Mentais/Genética.canvas",
+    "Mapas Mentais/Facismo.md",
+    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Untitled.md",
     "Assets/Pasted image 20230901103340.png",
     "Mapas Mentais/Untitled.md",
@@ -178,7 +179,6 @@
     "Matérias/Biologia/Glossário.md",
     "Assets/Pasted image 20230901102126.png",
     "Pasted image 20230901102106.png",
-    "Matérias/História/Facismo.md",
     "2023-09-01.md",
     "Matérias/Índice.md",
     "Home.md",
