@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"936f41325bf5f8dc","type":"text","text":"Nazifacismo","x":-220,"y":100,"width":160,"height":60},
+		{"id":"26f73d663acbdfbf","type":"text","text":"> Totalitário","x":-595,"y":-130,"width":250,"height":50},
+		{"id":"fa283f4f2ffb5f14","type":"text","text":"> Ultranacionalista","x":-265,"y":-130,"width":250,"height":50},
+		{"id":"5ecd1a5cd8ca1efc","type":"text","text":"> Anticomunista","x":65,"y":-130,"width":250,"height":50},
+		{"id":"29e54c13f94123b6","type":"text","text":"**Facismo**","x":65,"y":360,"width":250,"height":50},
+		{"id":"4ea87d632ff48b42","type":"text","text":"**Nazismo**","x":-560,"y":360,"width":215,"height":50},
+		{"id":"5443b8016010f037","type":"text","text":"> Surgiu na Alemanha","x":-685,"y":520,"width":250,"height":50},
+		{"id":"f6c49362f37ba19b","type":"text","text":"> Surgiu na Itália através da ideia totalitária de Mussolini e da humilhação da Primeira Guerra Mundial","x":440,"y":385,"width":320,"height":130}
+	],
+	"edges":[
+		{"id":"cf5208690bda6463","fromNode":"936f41325bf5f8dc","fromSide":"top","toNode":"26f73d663acbdfbf","toSide":"bottom"},
+		{"id":"edafa65bc68a9199","fromNode":"936f41325bf5f8dc","fromSide":"top","toNode":"fa283f4f2ffb5f14","toSide":"bottom"},
+		{"id":"602909a744d9d37d","fromNode":"936f41325bf5f8dc","fromSide":"top","toNode":"5ecd1a5cd8ca1efc","toSide":"bottom"},
+		{"id":"34c6383913153d65","fromNode":"936f41325bf5f8dc","fromSide":"bottom","toNode":"29e54c13f94123b6","toSide":"top"},
+		{"id":"60cc334774815683","fromNode":"29e54c13f94123b6","fromSide":"right","toNode":"f6c49362f37ba19b","toSide":"left"},
+		{"id":"299e9aa1b113296d","fromNode":"936f41325bf5f8dc","fromSide":"bottom","toNode":"4ea87d632ff48b42","toSide":"top"},
+		{"id":"5100f22f259012af","fromNode":"4ea87d632ff48b42","fromSide":"bottom","toNode":"5443b8016010f037","toSide":"top"}
+	]
+}
