@@ -4,18 +4,22 @@
 		{"id":"6b87048e65a67aad","type":"text","text":"> Surgiu na Itália (pós Primeira Guerra Mundial)","x":-20,"y":60,"width":250,"height":100},
 		{"id":"12a94bd2243642c2","type":"text","text":"> Propagado por **Benito Mussolini**","x":360,"y":69,"width":250,"height":83},
 		{"id":"87ff9e258360a156","type":"text","text":"> Características","x":-20,"y":-337,"width":250,"height":60},
-		{"id":"9679d1e7c3e824ba","type":"text","text":"> Apropriação de culturas","x":800,"y":-450,"width":254,"height":70},
-		{"id":"c6063e515ad5db1a","type":"text","text":"> *\"Herdeiros do império Romano\"*","x":800,"y":-340,"width":250,"height":75},
-		{"id":"ccd871a71a95c7a4","type":"text","text":"> Ultra conservadores","x":800,"y":-225,"width":250,"height":60},
 		{"id":"e38877cf4701ca37","type":"text","text":"> Valorização de tradições","x":360,"y":-347,"width":250,"height":80},
 		{"id":"45a4bf957c37d30b","type":"text","text":"> Anticomunista","x":360,"y":-225,"width":250,"height":60},
 		{"id":"e0fe35a7195e9497","type":"text","text":"> Movimento ideológico e político","x":360,"y":-470,"width":250,"height":80},
 		{"id":"71dd4a724f9aa6a2","type":"text","text":"> Apelo emocional","x":804,"y":-680,"width":250,"height":60},
-		{"id":"12f57d4804851a5a","type":"text","text":"> Repulsa ao mundo intelectual","x":804,"y":-582,"width":250,"height":60},
+		{"id":"12f57d4804851a5a","type":"text","text":"> Repulsa ao mundo intelectual","x":804,"y":-580,"width":250,"height":60},
 		{"id":"bfd00ac11d077287","type":"text","text":"> Irracionalista","x":360,"y":-642,"width":250,"height":60},
 		{"id":"7dca381b9a505549","type":"text","text":"> Nacionalismo exacerbado","x":360,"y":-80,"width":250,"height":87},
-		{"id":"ab05a4bab4b7fe20","x":800,"y":-109,"width":250,"height":73,"type":"text","text":"> Adoração irracional pela pátria"},
-		{"id":"eaa530ae478104d8","type":"text","text":"> *\"Minha nação é melhor e superior do que as outras\"*","x":800,"y":0,"width":250,"height":60}
+		{"id":"ab05a4bab4b7fe20","type":"text","text":"> Adoração irracional pela pátria","x":800,"y":-155,"width":250,"height":73},
+		{"id":"eaa530ae478104d8","type":"text","text":"> *\"Minha nação é melhor e superior do que as outras\"*","x":800,"y":-41,"width":250,"height":110},
+		{"id":"c6063e515ad5db1a","type":"text","text":"> *\"Herdeiros do império Romano\"*","x":804,"y":-370,"width":250,"height":75},
+		{"id":"ccd871a71a95c7a4","type":"text","text":"> Ultra conservadores","x":804,"y":-255,"width":250,"height":60},
+		{"id":"9679d1e7c3e824ba","type":"text","text":"> Apropriação de culturas","x":808,"y":-480,"width":246,"height":70},
+		{"id":"b905acacf048a6f1","x":360,"y":200,"width":250,"height":60,"type":"text","text":"> Contexto"},
+		{"id":"ed44ddf2af076dc2","x":800,"y":171,"width":250,"height":119,"type":"text","text":"> Itália se sente humilhada por causa da Primeira Guerra Mundial"},
+		{"id":"a5832d8ab4c5ec83","x":803,"y":320,"width":250,"height":60,"type":"text","text":"> Medo do comunismo"},
+		{"id":"1aa6727e91918316","x":803,"y":460,"width":250,"height":77,"type":"text","text":"> Revoluções comunistas"}
 	],
 	"edges":[
 		{"id":"73abca884932bcd0","fromNode":"e2b2ee5ef4a7e534","fromSide":"top","toNode":"87ff9e258360a156","toSide":"left"},
@@ -31,6 +35,11 @@
 		{"id":"af7325de9f46d644","fromNode":"bfd00ac11d077287","fromSide":"right","toNode":"71dd4a724f9aa6a2","toSide":"left"},
 		{"id":"c52b60904c5c79dd","fromNode":"bfd00ac11d077287","fromSide":"right","toNode":"12f57d4804851a5a","toSide":"left"},
 		{"id":"85788e5508f19a80","fromNode":"87ff9e258360a156","fromSide":"bottom","toNode":"7dca381b9a505549","toSide":"left"},
-		{"id":"a8f8eb922f437cbe","fromNode":"7dca381b9a505549","fromSide":"right","toNode":"ab05a4bab4b7fe20","toSide":"left"}
+		{"id":"a8f8eb922f437cbe","fromNode":"7dca381b9a505549","fromSide":"right","toNode":"ab05a4bab4b7fe20","toSide":"left"},
+		{"id":"8d752285eb41f0b4","fromNode":"7dca381b9a505549","fromSide":"right","toNode":"eaa530ae478104d8","toSide":"left"},
+		{"id":"39b9e2a28b493192","fromNode":"6b87048e65a67aad","fromSide":"right","toNode":"b905acacf048a6f1","toSide":"left"},
+		{"id":"cef1c65e9db84fdb","fromNode":"b905acacf048a6f1","fromSide":"right","toNode":"ed44ddf2af076dc2","toSide":"left"},
+		{"id":"9ac1bd1c31e36c38","fromNode":"b905acacf048a6f1","fromSide":"right","toNode":"a5832d8ab4c5ec83","toSide":"left"},
+		{"id":"f61874189bc68c66","fromNode":"a5832d8ab4c5ec83","fromSide":"bottom","toNode":"1aa6727e91918316","toSide":"top"}
 	]
 }

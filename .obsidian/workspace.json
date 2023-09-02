@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8804d1aa77993007",
-        "type": "tabs",
-        "dimension": 24.946695095948826,
-        "children": [
-          {
-            "id": "cdbf45f549b4c446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matérias/História/Facismo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ad7851e9bd8d68aa",
         "type": "tabs",
-        "dimension": 75.05330490405117,
         "children": [
           {
             "id": "55da940145ee793a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapas Mentais/Facismo.canvas",
-                "viewState": {
-                  "x": 676.3871535910449,
-                  "y": -18.418341166139925,
-                  "zoom": -0.6666665649414062
-                }
+                "file": "Matérias/História/Facismo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais/Facismo.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais/Facismo.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Facismo.canvas"
+                "file": "Matérias/História/Facismo.md"
               }
             }
           },
@@ -191,11 +167,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "55da940145ee793a",
+  "active": "f7ebbd5f4398ce42",
   "lastOpenFiles": [
+    "Matérias/História/Facismo-old.md",
     "Matérias/História/Facismo.md",
     "Mapas Mentais/Facismo.canvas",
-    "Matérias/História/Facismo-old.md",
     "Mapas Mentais/Nazifacismo.canvas",
     "Mapas Mentais/Genética.canvas",
     "Mapas Mentais/Facismo.md",
