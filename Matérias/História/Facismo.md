@@ -18,3 +18,5 @@
 - Irracionalismo
 	- Apelo emocional
 	- Repulsa ao mundo intelectual
+- Nacionalismo exacerbado
+- 
