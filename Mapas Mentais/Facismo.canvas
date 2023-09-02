@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e2b2ee5ef4a7e534","type":"text","text":"Facismo ","x":-240,"y":40,"width":160,"height":60},
+		{"id":"87ff9e258360a156","x":-20,"y":-120,"width":250,"height":60,"type":"text","text":"Movimento ideológico e político"},
+		{"id":"6b87048e65a67aad","type":"text","text":"Movimento ideológico e político","x":-20,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"73abca884932bcd0","fromNode":"e2b2ee5ef4a7e534","fromSide":"top","toNode":"87ff9e258360a156","toSide":"left"}
+	]
+}
