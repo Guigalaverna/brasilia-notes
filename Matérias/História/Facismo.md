@@ -9,3 +9,12 @@
 ## Características
 - Anticomunista
 - Povo totalmente controlado pelo Estado
+- Valorização de tradições antigas
+	- Apropriação de tradições
+	- Se achavam herdeiros do império Romano
+	- Abominam pensamentos modernos
+	- Reacionários
+		- Ultra conservadores
+- Irracionalismo
+	- Apelo emocional
+	- Repulsa ao mundo intelectual
