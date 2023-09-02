@@ -11,14 +11,11 @@
             "id": "417a5669d9f9ddd4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapas Mentais/Nazi.canvas",
-                "viewState": {
-                  "x": 338.1720442806778,
-                  "y": 511.6441129058951,
-                  "zoom": -2.220446049250313e-16
-                }
+                "file": "Matérias/História/Facismo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais/Nazi.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais/Nazi.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Nazi.canvas"
+                "file": "Matérias/História/Facismo.md"
               }
             }
           },
@@ -161,8 +158,9 @@
   },
   "active": "417a5669d9f9ddd4",
   "lastOpenFiles": [
+    "Matérias/História/Facismo-old.md",
     "Matérias/História/Facismo.md",
-    "Mapas Mentais/Nazi.canvas",
+    "Mapas Mentais/Nazifacismo.canvas",
     "Mapas Mentais/Genética.canvas",
     "Mapas Mentais/Facismo.md",
     "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
