@@ -3,13 +3,8 @@
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
-<<<<<<< HEAD
-  "autoPullInterval": 10,
-  "autoPullOnBoot": false,
-=======
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
->>>>>>> origin/main
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -52,11 +47,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-<<<<<<< HEAD
-    "gutterSpacingFallbackLength": 5,
-=======
     "gutterSpacingFallbackLength": 13,
->>>>>>> origin/main
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
