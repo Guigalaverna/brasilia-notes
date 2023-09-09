@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Literatura/Modernismo.md",
+                "file": "Matérias/Análise Linguística/Orações.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias/Literatura/Modernismo.md",
+                "file": "Matérias/Análise Linguística/Orações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matérias/Literatura/Modernismo.md",
+                "file": "Matérias/Análise Linguística/Orações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matérias/Literatura/Modernismo.md"
+                "file": "Matérias/Análise Linguística/Orações.md"
               }
             }
           },
@@ -169,8 +170,9 @@
   },
   "active": "55da940145ee793a",
   "lastOpenFiles": [
-    "Matérias/História/Facismo.md",
     "Matérias/Literatura/Modernismo.md",
+    "Matérias/Análise Linguística/Orações.md",
+    "Matérias/História/Facismo.md",
     "Matérias/História/Facismo-old.md",
     "Mapas Mentais/Facismo.canvas",
     "Mapas Mentais/Nazifacismo.canvas",
