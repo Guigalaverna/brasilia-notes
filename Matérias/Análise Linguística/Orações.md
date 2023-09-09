@@ -36,7 +36,7 @@
 #### Consecutivas
 - Indica consequência do fato referido na oração principal
 - *"O rio transbordou **tanto que** a cidade foi alagada"*
-- Conjunções causais: que, de sorte que, de modo que
+- Conjunções consecutivas: que, de sorte que, de modo que
 #### Condicionais
 - Expressam uma circunstância de condição
 - *"Deixe um recado **se** você não me encontrar em casa"*
@@ -48,5 +48,14 @@
 #### Conformativas
 - Indicam conformidade em relação à ação expressa pelo verbo na oração principal
 - "*Tudo ocorreu conforme era esperado*"
+- Conjunções conformativas: conforme, consoante, como, segundo, etc.
+#### Comparativas
+- Expressam comparação
+- "*Nós estudamos **como** obstinados estudam*"
+- Conjunções comparativas: como, que, do que, etc.
+#### Finais
+- Expressam objetivo
+- "*Sentei-me primeira fila, **para que** pudesse ouvir melhor*"
+- Conjunções finais: para que, a fim de que, que, porque, etc.
 ### Adjetivas
 ### Substantivas
