@@ -28,6 +28,14 @@
 - Possuem relação de subordinação
 	- O sentido depende das duas orações juntas
 ### Adverbiais
-- Se encaixa na oração como adjunto
+- Se encaixa na oração como [[Glossário#Adjunto adverbial|adjunto adverbial]]
+#### Causal
+- Indica causa da ação expressa na oração principal.
+- *"A cidade foi alagada **porque** o rio transbordou"*
+- Conjunções causais: porque, visto que, como, uma vez que, posto que
+#### Consecutivas
+- Indica consequência do fato referido na oração principal
+- *"O rio transbordou **tanto que** a cidade foi alagada"*
+- Conjunções causais: que, de sorte que, de modo que 
 ### Adjetivas
 ### Substantivas
