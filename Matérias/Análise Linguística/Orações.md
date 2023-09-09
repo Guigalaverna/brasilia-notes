@@ -36,6 +36,17 @@
 #### Consecutivas
 - Indica consequência do fato referido na oração principal
 - *"O rio transbordou **tanto que** a cidade foi alagada"*
-- Conjunções causais: que, de sorte que, de modo que 
+- Conjunções causais: que, de sorte que, de modo que
+#### Condicionais
+- Expressam uma circunstância de condição
+- *"Deixe um recado **se** você não me encontrar em casa"*
+- Conjunções condicionais: caso, se, desde que, contanto que, sem que
+#### Concessivas
+- Indicam fato contrário
+- *"**Embora** tivesse chovido muito, fomos ao parque"*
+- Conjunções concessivas: embora, a menos que, se bem que, ainda que, conquanto que, etc.
+#### Conformativas
+- Indicam conformidade em relação à ação expressa pelo verbo na oração principal
+- "*Tudo ocorreu conforme era esperado*"
 ### Adjetivas
 ### Substantivas
