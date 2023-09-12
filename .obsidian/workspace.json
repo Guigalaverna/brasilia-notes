@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5df50506b3852ec3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,6 +160,16 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "493536671339750e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -168,7 +189,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6419aefbee8acc05",
+  "active": "5df50506b3852ec3",
   "lastOpenFiles": [
     "Sem título.md",
     "Matérias/Análise Linguística/Orações.md",
