@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Análise Linguística/Orações.md",
+                "file": "Matérias/História/Facismo.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5df50506b3852ec3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias/Análise Linguística/Orações.md",
+                "file": "Matérias/História/Facismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matérias/Análise Linguística/Orações.md",
+                "file": "Matérias/História/Facismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matérias/Análise Linguística/Orações.md"
+                "file": "Matérias/História/Facismo.md"
               }
             }
           },
@@ -189,16 +177,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5df50506b3852ec3",
+  "active": "6419aefbee8acc05",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Mapas Mentais/Fascismo.canvas",
     "Matérias/Análise Linguística/Orações.md",
+    "Sem título.md",
     "Glossário.md",
     "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Matérias/Literatura/Modernismo.md",
     "Matérias/História/Facismo.md",
     "Matérias/História/Facismo-old.md",
-    "Mapas Mentais/Facismo.canvas",
     "Mapas Mentais/Nazifacismo.canvas",
     "Mapas Mentais/Genética.canvas",
     "Mapas Mentais/Facismo.md",

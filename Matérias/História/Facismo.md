@@ -1,4 +1,4 @@
-# Facismo
+# Fascismo
 ## Definição
 - É uma ideologia política que surgiu na **Itália** depois da **Primeira Guerra Mundial** por **Benito Mussolini**
 ## Origem
