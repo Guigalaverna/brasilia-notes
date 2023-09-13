@@ -33,3 +33,14 @@
 	- Jorge Amado
 	- Rachel de Queiróz
 	- José Lins do Rego
+## Terceira fase
+- A terceira fase do Modernismo Brasileiro ocorreu aproximadamente entre 1945 e 1960.
+- Foi marcada por uma maior introspecção e busca por uma identidade nacional.
+- Autores importantes 
+	- João Guimarães Rosa
+	- Clarice Lispector 
+	- Guimarães Rosa.
+- A prosa nessa fase explorou ==temas regionais== e a ==linguagem regionalista==.
+- Na poesia, houve uma experimentação formal, como na obra de João Cabral de Melo Neto.
+- Obras importantes incluem "==Grande Sertão: Veredas==" de Guimarães Rosa e "==A Hora da Estrela==" de Clarice Lispector.
+- Foi uma época de ==renovação== e ==diversificação== na literatura brasileira, explorando novas linguagens e estilos.
