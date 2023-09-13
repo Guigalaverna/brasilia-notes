@@ -1,0 +1,8 @@
+{
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@color-accent-rgb-d": "243, 90, 55",
+  "sanctum@@sticky-view-actions": false,
+  "sanctum@@tag-radius": "2em",
+  "sanctum@@tag-border-width": "1px",
+  "sanctum@@tag-decoration-hover": "underline 1px"
+}

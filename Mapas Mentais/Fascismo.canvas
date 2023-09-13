@@ -1,8 +1,5 @@
 {
 	"nodes":[
-		{"id":"e2b2ee5ef4a7e534","type":"text","text":"Facismo ","x":-400,"y":80,"width":160,"height":60},
-		{"id":"6b87048e65a67aad","type":"text","text":"> Surgiu na Itália (pós Primeira Guerra Mundial)","x":-20,"y":60,"width":250,"height":100},
-		{"id":"12a94bd2243642c2","type":"text","text":"> Propagado por **Benito Mussolini**","x":360,"y":69,"width":250,"height":83},
 		{"id":"87ff9e258360a156","type":"text","text":"> Características","x":-20,"y":-337,"width":250,"height":60},
 		{"id":"e38877cf4701ca37","type":"text","text":"> Valorização de tradições","x":360,"y":-347,"width":250,"height":80},
 		{"id":"45a4bf957c37d30b","type":"text","text":"> Anticomunista","x":360,"y":-225,"width":250,"height":60},
@@ -10,16 +7,19 @@
 		{"id":"71dd4a724f9aa6a2","type":"text","text":"> Apelo emocional","x":804,"y":-680,"width":250,"height":60},
 		{"id":"12f57d4804851a5a","type":"text","text":"> Repulsa ao mundo intelectual","x":804,"y":-580,"width":250,"height":60},
 		{"id":"bfd00ac11d077287","type":"text","text":"> Irracionalista","x":360,"y":-642,"width":250,"height":60},
-		{"id":"7dca381b9a505549","type":"text","text":"> Nacionalismo exacerbado","x":360,"y":-80,"width":250,"height":87},
-		{"id":"ab05a4bab4b7fe20","type":"text","text":"> Adoração irracional pela pátria","x":800,"y":-155,"width":250,"height":73},
-		{"id":"eaa530ae478104d8","type":"text","text":"> *\"Minha nação é melhor e superior do que as outras\"*","x":800,"y":-41,"width":250,"height":110},
-		{"id":"c6063e515ad5db1a","type":"text","text":"> *\"Herdeiros do império Romano\"*","x":804,"y":-370,"width":250,"height":75},
-		{"id":"ccd871a71a95c7a4","type":"text","text":"> Ultra conservadores","x":804,"y":-255,"width":250,"height":60},
-		{"id":"9679d1e7c3e824ba","type":"text","text":"> Apropriação de culturas","x":808,"y":-480,"width":246,"height":70},
-		{"id":"b905acacf048a6f1","x":360,"y":200,"width":250,"height":60,"type":"text","text":"> Contexto"},
-		{"id":"ed44ddf2af076dc2","x":800,"y":171,"width":250,"height":119,"type":"text","text":"> Itália se sente humilhada por causa da Primeira Guerra Mundial"},
-		{"id":"a5832d8ab4c5ec83","x":803,"y":320,"width":250,"height":60,"type":"text","text":"> Medo do comunismo"},
-		{"id":"1aa6727e91918316","x":803,"y":460,"width":250,"height":77,"type":"text","text":"> Revoluções comunistas"}
+		{"id":"9679d1e7c3e824ba","type":"text","text":"> Apropriação de culturas","x":805,"y":-454,"width":246,"height":70},
+		{"id":"c6063e515ad5db1a","type":"text","text":"> *\"Herdeiros do império Romano\"*","x":801,"y":-344,"width":250,"height":75},
+		{"id":"ccd871a71a95c7a4","type":"text","text":"> Ultra conservadores","x":801,"y":-229,"width":250,"height":60},
+		{"id":"ab05a4bab4b7fe20","type":"text","text":"> Adoração irracional pela pátria","x":798,"y":-105,"width":250,"height":73},
+		{"id":"eaa530ae478104d8","type":"text","text":"> *\"Minha nação é melhor e superior do que as outras\"*","x":798,"y":9,"width":250,"height":110},
+		{"id":"ed44ddf2af076dc2","type":"text","text":"> Itália se sente humilhada por causa da Primeira Guerra Mundial","x":798,"y":221,"width":250,"height":119},
+		{"id":"a5832d8ab4c5ec83","type":"text","text":"> Medo do comunismo","x":801,"y":370,"width":250,"height":60},
+		{"id":"1aa6727e91918316","type":"text","text":"> Revoluções comunistas","x":801,"y":510,"width":250,"height":77},
+		{"id":"12a94bd2243642c2","type":"text","text":"> Propagado por **Benito Mussolini**","x":358,"y":119,"width":250,"height":83},
+		{"id":"7dca381b9a505549","type":"text","text":"> Nacionalismo exacerbado","x":358,"y":-30,"width":250,"height":87},
+		{"id":"b905acacf048a6f1","type":"text","text":"> Contexto","x":358,"y":250,"width":250,"height":60},
+		{"id":"e2b2ee5ef4a7e534","type":"text","text":"Facismo ","x":-400,"y":191,"width":160,"height":60},
+		{"id":"6b87048e65a67aad","type":"text","text":"> Surgiu na Itália (pós Primeira Guerra Mundial)","x":-20,"y":171,"width":250,"height":100}
 	],
 	"edges":[
 		{"id":"73abca884932bcd0","fromNode":"e2b2ee5ef4a7e534","fromSide":"top","toNode":"87ff9e258360a156","toSide":"left"},

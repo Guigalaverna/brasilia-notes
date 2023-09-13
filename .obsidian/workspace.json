@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cba862a48db18621",
+        "id": "9c63ac1b8fee837d",
         "type": "tabs",
         "children": [
           {
-            "id": "93c7e18d05b0e153",
+            "id": "a9363ba49a9158ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Matérias/História/Governo Provisório.md",
-                "mode": "source",
-                "source": false
+                "file": "Mapas Mentais/Fascismo.canvas",
+                "viewState": {
+                  "x": 687.0716732803248,
+                  "y": 58.530707477484626,
+                  "zoom": -1.0473547348028551
+                }
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias/História/Governo Provisório.md",
+                "file": "Mapas Mentais/Fascismo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matérias/História/Governo Provisório.md",
+                "file": "Mapas Mentais/Fascismo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matérias/História/Governo Provisório.md"
+                "file": "Mapas Mentais/Fascismo.canvas"
               }
             }
           },
@@ -182,23 +185,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "93c7e18d05b0e153",
+  "active": "a9363ba49a9158ae",
   "lastOpenFiles": [
+    "Mapas Mentais/Genética.canvas",
+    "Mapas Mentais/Fascismo.canvas",
+    "Matérias/História/Facismo.md",
+    "Matérias/História/Governo Provisório.md",
+    "test.md",
     "Matérias/História/Revolução de 1932.md",
     "Matérias/História/Hitler chegou ao poder de forma democrática.md",
-    "Matérias/História/Facismo.md",
     "Matérias/História/Contexto da Alemanha pós 1° Guerra Mundial.md",
-    "Matérias/História/Governo Provisório.md",
     "Glossário.md",
     "Matérias/História/Surgimento do Nazismo.md",
-    "Sem título.md",
-    "Mapas Mentais/Fascismo.canvas",
     "Matérias/Análise Linguística/Orações.md",
     "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Matérias/Literatura/Modernismo.md",
     "Matérias/História/Facismo-old.md",
     "Mapas Mentais/Nazifacismo.canvas",
-    "Mapas Mentais/Genética.canvas",
     "Mapas Mentais/Facismo.md",
     "Untitled.md",
     "Assets/Pasted image 20230901103340.png",

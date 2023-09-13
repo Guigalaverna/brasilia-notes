@@ -4,7 +4,7 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Cantarell",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "img-grids-floats"
   ]

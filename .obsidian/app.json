@@ -1,4 +1,8 @@
 {
   "attachmentFolderPath": "Assets",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "tabSize": 4
 }
