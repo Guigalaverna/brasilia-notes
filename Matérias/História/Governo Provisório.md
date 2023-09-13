@@ -6,7 +6,7 @@
 		- Vargas apoiava um centralismo
 - Fechamento do Legislativo
 	- Foco no Executivo
-	- Substitui os governadores por **interventores federais**
+	- Substitui os governadores por **interventores federais** ^629cde
 		- Pessoas que Vargas confiava (participantes da rev. de 30/tenentes)
 - Populismo
 	- Líder carismático
