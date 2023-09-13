@@ -11,18 +11,26 @@
             "id": "a9363ba49a9158ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapas Mentais/Fascismo.canvas",
-                "viewState": {
-                  "x": 687.0716732803248,
-                  "y": 58.530707477484626,
-                  "zoom": -1.0473547348028551
-                }
+                "file": "Matérias/História/Facismo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a31f43620379db8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +42,7 @@
       {
         "id": "48486400f08faff2",
         "type": "tabs",
-        "dimension": 28.391472868217054,
+        "dimension": 28.391472868217058,
         "children": [
           {
             "id": "e941a8f553ceed6a",
@@ -105,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais/Fascismo.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais/Fascismo.canvas",
+                "file": "Matérias/História/Facismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Fascismo.canvas"
+                "file": "Matérias/História/Facismo.md"
               }
             }
           },
@@ -185,11 +193,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a9363ba49a9158ae",
+  "active": "a31f43620379db8a",
   "lastOpenFiles": [
-    "Mapas Mentais/Genética.canvas",
-    "Mapas Mentais/Fascismo.canvas",
+    "Assets/Resumo - Era Vargas.pdf",
+    "PDF/Era Vargas.md",
     "Matérias/História/Facismo.md",
+    "Mapas Mentais/Fascismo.canvas",
+    "PDF/Não confirmado 892533.crdownload",
+    "PDF",
+    "Mapas Mentais/Genética.canvas",
     "Matérias/História/Governo Provisório.md",
     "test.md",
     "Matérias/História/Revolução de 1932.md",
@@ -213,9 +225,6 @@
     "Matérias/Química/Química B",
     "Matérias/Química/Química A",
     "Matérias/Química",
-    "Matérias/Matemática/Matemática B",
-    "Matérias/Matemática/Matemática A",
-    "Matérias/Matemática",
     "Assets/Pasted image 20230901102126.png",
     "Pasted image 20230901102106.png",
     "2023-09-01.md",

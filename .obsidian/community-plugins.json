@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-plugin-toc",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-outliner",
+  "obsidian-annotator"
 ]

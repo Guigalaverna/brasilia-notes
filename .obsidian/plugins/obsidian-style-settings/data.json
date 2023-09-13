@@ -4,5 +4,6 @@
   "sanctum@@sticky-view-actions": false,
   "sanctum@@tag-radius": "2em",
   "sanctum@@tag-border-width": "1px",
-  "sanctum@@tag-decoration-hover": "underline 1px"
+  "sanctum@@tag-decoration-hover": "underline 1px",
+  "sanctum@@font-editor-theme": "Inter"
 }
