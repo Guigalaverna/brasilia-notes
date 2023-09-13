@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Anotações/Literatura.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações/Literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anotações/Literatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anotações/Literatura.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,10 +178,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "439de59f33579f88",
+  "active": "6419aefbee8acc05",
   "lastOpenFiles": [
-    "Anotações/Equilíbrio Químico.md",
     "Anotações/Literatura.md",
+    "Anotações/Equilíbrio Químico.md",
     "Assets/Pasted image 20230913184841.png",
     "Assets/Pasted image 20230913184740.png",
     "Assets/Pasted image 20230913184353.png",
