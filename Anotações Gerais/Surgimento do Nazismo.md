@@ -18,5 +18,6 @@
 			- Reconquistar territórios perdidos na guerra
 			- Criar um governo forte e autoritário
 			- Unificar alemães seguindo linhas raciais e étnicas
+				- Eugenia -> Holocausto
 		- **Os nazistas se aproveitam das esperanças, medos e preconceitos da população**
 	
