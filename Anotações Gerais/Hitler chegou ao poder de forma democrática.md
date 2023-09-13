@@ -1,5 +1,5 @@
 # Hitler chegou ao poder de forma democrática?
-#facismo #história
+#história #nazismo
 - Contexto
 	- Primeira Guerra Mundial
 		- Derrota
@@ -9,8 +9,9 @@
 	- Alemanha
 		- Crise econômica
 			- Inflação
-		- Revoltas de políticos com a repúbl
+		- Revoltas de políticos com a república
+			- Extrema direita e esquerda tentava derrubar a república
+		- Partido comunista gera alarde
 - Hitler chegou por forma democrática
 	- Tentou dar golpe pra chegar ao poder
 	- Chegou ao poder por processos políticos legais da Alemanha
-	- 
