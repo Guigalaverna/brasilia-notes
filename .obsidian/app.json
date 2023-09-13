@@ -4,5 +4,12 @@
   "alwaysUpdateLinks": false,
   "livePreview": true,
   "defaultViewMode": "preview",
-  "tabSize": 4
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
