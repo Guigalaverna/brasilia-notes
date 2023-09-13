@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/História/Facismo.md",
-                "mode": "preview",
+                "file": "Anotações/Chuva Ácida.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias/História/Facismo.md",
+                "file": "Anotações/Chuva Ácida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matérias/História/Facismo.md",
+                "file": "Anotações/Chuva Ácida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matérias/História/Facismo.md"
+                "file": "Anotações/Chuva Ácida.md"
               }
             }
           },
@@ -184,23 +185,25 @@
   },
   "active": "a9363ba49a9158ae",
   "lastOpenFiles": [
+    "Anotações/Chuva Ácida.md",
+    "Anotações/1° Lei de Mendel.md",
+    "Anotações/Surgimento do Nazismo.md",
+    "Anotações",
+    "Anotações/Contexto da Alemanha pós 1° Guerra Mundial.md",
+    "Matérias/Literatura/Modernismo.md",
+    "Anotações/Facismo.md",
     "Assets/Resumo - Era Vargas.pdf",
     "PDF/Era Vargas.md",
-    "Matérias/História/Facismo.md",
     "Mapas Mentais/Fascismo.canvas",
     "PDF/Não confirmado 892533.crdownload",
     "PDF",
     "Mapas Mentais/Genética.canvas",
-    "Matérias/História/Governo Provisório.md",
+    "Anotações/Governo Provisório.md",
     "test.md",
-    "Matérias/História/Revolução de 1932.md",
-    "Matérias/História/Hitler chegou ao poder de forma democrática.md",
-    "Matérias/História/Contexto da Alemanha pós 1° Guerra Mundial.md",
-    "Glossário.md",
-    "Matérias/História/Surgimento do Nazismo.md",
-    "Matérias/Análise Linguística/Orações.md",
-    "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
-    "Matérias/Literatura/Modernismo.md",
+    "Anotações/Revolução de 1932.md",
+    "Anotações/Hitler chegou ao poder de forma democrática.md",
+    "Anotações/Glossário.md",
+    "Anotações/Orações.md",
     "Matérias/História/Facismo-old.md",
     "Mapas Mentais/Nazifacismo.canvas",
     "Mapas Mentais/Facismo.md",
@@ -213,7 +216,6 @@
     "Matérias/Redação",
     "Matérias/Química/Química B",
     "Matérias/Química/Química A",
-    "Matérias/Química",
     "Assets/Pasted image 20230901102126.png",
     "Pasted image 20230901102106.png",
     "2023-09-01.md",
