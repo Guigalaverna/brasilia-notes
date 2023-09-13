@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a31f43620379db8a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +182,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a31f43620379db8a",
+  "active": "a9363ba49a9158ae",
   "lastOpenFiles": [
     "Assets/Resumo - Era Vargas.pdf",
     "PDF/Era Vargas.md",
