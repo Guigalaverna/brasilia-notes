@@ -1,4 +1,7 @@
 # Glossário
+## Geral
+### Hegemonia
+Em história política, hegemonia é a supremacia de um povo sobre outros, ou seja, através da introdução da sua cultura ou por meios militares.
 ## Biologia
 ## Gene
 Um conjunto de 3 base nitrogenadas, que quando codificado, expressa uma característica (ex.: cor do cabelo)

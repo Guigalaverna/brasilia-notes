@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/História/Governo Provisório.md",
+                "file": "Matérias/História/Revolução de 1932.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "48486400f08faff2",
         "type": "tabs",
-        "dimension": 45.542635658914726,
+        "dimension": 28.391472868217054,
         "children": [
           {
             "id": "e941a8f553ceed6a",
@@ -70,7 +70,7 @@
       {
         "id": "aff17fc1a439f7a4",
         "type": "tabs",
-        "dimension": 54.45736434108527,
+        "dimension": 71.60852713178295,
         "children": [
           {
             "id": "f7ebbd5f4398ce42",
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matérias/História/Revolução de 1932.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matérias/História/Revolução de 1932.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matérias/História/Revolução de 1932.md"
+              }
             }
           },
           {
@@ -178,17 +182,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6419aefbee8acc05",
+  "active": "93c7e18d05b0e153",
   "lastOpenFiles": [
-    "Matérias/História/Governo Provisório.md",
-    "Anotações Gerais/Contexto da Alemanha pós 1° Guerra Mundial.md",
-    "Anotações Gerais/Surgimento do Nazismo.md",
-    "Sem título.md",
-    "Anotações Gerais/Hitler chegou ao poder de forma democrática.md",
+    "Matérias/História/Hitler chegou ao poder de forma democrática.md",
     "Matérias/História/Facismo.md",
+    "Matérias/História/Contexto da Alemanha pós 1° Guerra Mundial.md",
+    "Matérias/História/Revolução de 1932.md",
+    "Matérias/História/Governo Provisório.md",
+    "Glossário.md",
+    "Matérias/História/Surgimento do Nazismo.md",
+    "Sem título.md",
     "Mapas Mentais/Fascismo.canvas",
     "Matérias/Análise Linguística/Orações.md",
-    "Glossário.md",
     "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Matérias/Literatura/Modernismo.md",
     "Matérias/História/Facismo-old.md",

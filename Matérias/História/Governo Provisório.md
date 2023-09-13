@@ -1,4 +1,4 @@
-# Era Vargas
+# Governo Provisório
 #governo-provisório #história #era-vargas
 ## Governo Provisório
 - Suspensão da Constituição de 1981
