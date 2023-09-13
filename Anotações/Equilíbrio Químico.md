@@ -32,4 +32,11 @@ $$
 ## Ácidos e Bases
 ![[Pasted image 20230913184841.png|center]]
 - Quanto mais forte o ácido $\Rightarrow$ maior o valor de $K_a$ e mais o ácido se ioniza (maior grau de ionização, $\alpha$).
-- Quanto 
+- Quanto mais fraco o ácido $\Rightarrow$ menor o valor de $K_a$ e menos o ácido se ioniza (menor grau de ionização, $\alpha$
+### Lei da diluição de Ostwald
+$$
+K_i = \frac{\alpha^2*\eta}{1-\alpha}
+$$
+- $K_i$ é a constante de ionização
+- $\alpha$ é o grau de ionização
+- $\eta$ é a concentração em $mol/L$
