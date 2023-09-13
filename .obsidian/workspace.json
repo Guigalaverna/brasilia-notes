@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações/Equilíbrio Químico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anotações/Equilíbrio Químico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anotações/Equilíbrio Químico.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +188,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "439de59f33579f88",
+  "active": "6419aefbee8acc05",
   "lastOpenFiles": [
     "Anotações/Equilíbrio Químico.md",
     "Anotações/Orações.md",
