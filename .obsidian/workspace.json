@@ -11,11 +11,14 @@
             "id": "6419aefbee8acc05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Matérias/História/Facismo.md",
-                "mode": "source",
-                "source": false
+                "file": "Mapas Mentais/Fascismo.canvas",
+                "viewState": {
+                  "x": 327,
+                  "y": -71.5,
+                  "zoom": -1.376528536974628
+                }
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matérias/História/Facismo.md",
+                "file": "Mapas Mentais/Fascismo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matérias/História/Facismo.md",
+                "file": "Mapas Mentais/Fascismo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matérias/História/Facismo.md"
+                "file": "Mapas Mentais/Fascismo.canvas"
               }
             }
           },
@@ -179,13 +182,13 @@
   },
   "active": "6419aefbee8acc05",
   "lastOpenFiles": [
+    "Matérias/História/Facismo.md",
     "Mapas Mentais/Fascismo.canvas",
     "Matérias/Análise Linguística/Orações.md",
     "Sem título.md",
     "Glossário.md",
     "Matérias/Biologia/Biologia B/1° Lei de Mendel.md",
     "Matérias/Literatura/Modernismo.md",
-    "Matérias/História/Facismo.md",
     "Matérias/História/Facismo-old.md",
     "Mapas Mentais/Nazifacismo.canvas",
     "Mapas Mentais/Genética.canvas",
