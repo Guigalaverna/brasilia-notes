@@ -16,5 +16,13 @@ K_p = \frac{[\text{P° Produtos}]^\text{ coeficiente}}{[\text{P° Reagentes}]^\t
 $$
 - $\text{[P° Produtos]}$: atmosferas -> $atm$
 - $\text{[P° Reagentes]}$: atmosferas -> $atm$
-## Princípio de Le Chatelier (deslocamento de equilíbrio)
-> 
+## Princípio de Le Châtelier (deslocamento de equilíbrio)
+
+> 	*"Quando uma perturbação for causada ao equilíbrio, este será reajustado na tentativa de anular tal perturbação"*
+
+- Se houver uma alteração em um dos lados da equação, o equilíbrio irá ir pro outro pra compensar a alteração
+## Alteração de concentração
+$$
+H_2 + Cl_2 \Longleftrightarrow 2HCl
+$$
+![[Pasted image 20230913183606.png|center]]
