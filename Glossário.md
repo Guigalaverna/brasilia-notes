@@ -29,4 +29,22 @@ Um adjunto adverbial é uma palavra ou expressão que descreve como, quando, ond
     - "suavemente" descreve a maneira como ela falou com o bebê.
 ### Conjunção integrante
 Conjunções integrantes são responsáveis em ligar a oração principal à subordinada (que/se)
+### Função sintática
+- Papel que cada termo desempenha na oração
+	- Sujeito
+	- Predicado
+	- Complemento verbal
+	- Complemento nominal
+- *"Pessoal, no Brasil, nosso amado país, alunos e professores protestam contra a falta de condições educacionais."*
+	- Sujeito: alunos e professores
+	- Predicado: protestam contra a falta de condições educacionais
+	- Complemento verbal (objeto indireto): contra a falta
+	- Complemento nominal: de condições
+	- Adjunto adverbial: no Brasil
+	- Adjunto adnominal: educacionais
+	- Aposto: nosso amado país
+	- Vocativo: Pessoal
+#### Locução conjuntiva
+- Conjunto de palavras com valor de conjunção
+	- Contanto que, à medida que, a fim de que
 ### Pronome relativo
