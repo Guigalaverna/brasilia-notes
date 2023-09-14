@@ -63,10 +63,16 @@
 	- São ligadas por ==pronomes relativos==
 		- que, quem, cujo, cuja, a qual
 #### Explicativa
-- Se refere **ao todo da oração**
+- Se refere **ao todo da oração** (com vírgula)
 	- *"Os jogadores de futebol, ==que são iniciantes==, não recebem salários"*
 		- Troca o "que" por outro pronome relativo e veja se mantém o sentido, se sim, então ele é um pronome relativo
 #### Restritiva
-- Se refere **à uma parte do todo**
+- Se refere **à uma parte do todo** (sem vírgula)
 	- *"Os artistas que declaram seu voto foram criticados."*
 ### Substantivas
+- Tem função sintática para a oração principal
+#### Subjetiva
+- É aquela que tem função de sujeito para a oração principal, ligada por uma [[Glossário#Conjunção integrante|conjunção integrante]]
+	- "***É** óbvio ==que== todos **seremos** aprovados"
+		- "É óbvio" : Oração principal
+		- "que todos seremos aprovados": Oração Substantiva subjetiva
