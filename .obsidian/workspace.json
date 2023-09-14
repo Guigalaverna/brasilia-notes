@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "f7b40c5a1ee45ddf",
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações/Orações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anotações/Orações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anotações/Orações.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,14 +178,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "439de59f33579f88",
+  "active": "6419aefbee8acc05",
   "lastOpenFiles": [
-    "Glossário.md",
-    "Anotações/1° Lei de Mendel.md",
     "Anotações/Orações.md",
+    "Glossário.md",
+    "Anotações/Modernismo.md",
+    "Anotações/1° Lei de Mendel.md",
     "Conjunção.md",
     "Anotações/Surgimento do Nazismo.md",
-    "Anotações/Modernismo.md",
     "Anotações/Equilíbrio Químico.md",
     "Assets/Pasted image 20230913184841.png",
     "Assets/Pasted image 20230913184740.png",

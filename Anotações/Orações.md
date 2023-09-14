@@ -1,4 +1,5 @@
 # Orações
+#gramática
 ## Coordenadas
 - Duas orações juntas com a mesma ideia
 - Possuem uma relação de coordenação
@@ -65,7 +66,7 @@
 #### Explicativa
 - Se refere **ao todo da oração** (com vírgula)
 	- *"Os jogadores de futebol, ==que são iniciantes==, não recebem salários"*
-		- Troca o "que" por outro pronome relativo e veja se mantém o sentido, se sim, então ele é um pronome relativo
+		- Troca o "que" por outro [[Glossário#Pronome relativo|pronome relativo]] e veja se mantém o sentido, se sim, então ele é um [[Glossário#Pronome relativo|pronome relativo]]
 #### Restritiva
 - Se refere **à uma parte do todo** (sem vírgula)
 	- *"Os artistas que declaram seu voto foram criticados."*
@@ -84,7 +85,7 @@
 			- Tem sujeito, logo a a próxima oração é objetiva direta
 		- "que seremos aprovados": Oração substantiva objetiva direta
 #### Objetiva indireta
-- É aquela que tem função de objeto indireto da oração principal
+- É aquela que complementa a oração principal com objeto indireto 
 	- "*O professor gosta ==de que nos esforcemos sempre==*"
 		- Sujeito: professor
 		- Gosta: necessita de preposição -> objeto indireto
@@ -94,3 +95,11 @@
 		- Sujeito: eu
 		- Verbo: tenho -> complemento: certeza
 		- "de que": complementa o substantivo "certeza"
+#### Predicativa
+- É aquela que tem função de predicativo para a oração principal
+	- "*A certeza é ==que você virá==*"
+		- Verbo de ligação junto com conjunção: Oração Subordinada Substantiva Predicativa
+#### Apositiva
+- É aquela que tem função de aposto para a oração principal, vem sempre após dois pontos
+	- "*Todos temos um só desejo: que passemos no vestibular*"
+		- Tem dois pontos = Apositiva

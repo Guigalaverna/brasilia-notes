@@ -29,3 +29,4 @@ Um adjunto adverbial é uma palavra ou expressão que descreve como, quando, ond
     - "suavemente" descreve a maneira como ela falou com o bebê.
 ### Conjunção integrante
 Conjunções integrantes são responsáveis em ligar a oração principal à subordinada (que/se)
+### Pronome relativo
