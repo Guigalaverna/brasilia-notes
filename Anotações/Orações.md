@@ -8,7 +8,7 @@
 - Orações ligadas por pontuação
 - *==Cheguei, vi, venci==* (cada verbo constitui uma oração, possuem sentido sozinhos)
 ### Sindética
-- Orações ligadas por conjução
+- Orações ligadas por conjunção
 #### Aditiva
 - Expressa ideia de adição
 - *e, nem, mas (também)*
