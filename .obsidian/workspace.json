@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossário.md",
+                "file": "Anotações/Orações.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossário.md",
+                "file": "Anotações/Orações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossário.md",
+                "file": "Anotações/Orações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossário.md"
+                "file": "Anotações/Orações.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "439de59f33579f88",
   "lastOpenFiles": [
-    "Anotações/Orações.md",
     "Glossário.md",
+    "Anotações/Orações.md",
     "Anotações/Modernismo.md",
     "Anotações/1° Lei de Mendel.md",
     "Conjunção.md",
