@@ -74,5 +74,23 @@
 #### Subjetiva
 - É aquela que tem função de sujeito para a oração principal, ligada por uma [[Glossário#Conjunção integrante|conjunção integrante]]
 	- "***É** óbvio ==que== todos **seremos** aprovados"
-		- "É óbvio" : Oração principal
+		- "É óbvio": Oração principal
 		- "que todos seremos aprovados": Oração Substantiva subjetiva
+	- A oração subjetiva tem função de sujeito para a oração principal
+#### Objetiva direta
+- É aquela que tem função de objeto direto da oração principal
+	- "*Todos sabemos ==que== seremos aprovados*"
+		- "==Todos== sabemos": Oração principal
+			- Tem sujeito, logo a a próxima oração é objetiva direta
+		- "que seremos aprovados": Oração substantiva objetiva direta
+#### Objetiva indireta
+- É aquela que tem função de objeto indireto da oração principal
+	- "*O professor gosta ==de que nos esforcemos sempre==*"
+		- Sujeito: professor
+		- Gosta: necessita de preposição -> objeto indireto
+#### Completiva nominal
+- É aquela que complementa o sentido de um substantivo abstrato com preposição
+	- "*Eu tenho certeza ==de que passaremos no vestibular==*"
+		- Sujeito: eu
+		- Verbo: tenho -> complemento: certeza
+		- "de que": complementa o substantivo "certeza"
