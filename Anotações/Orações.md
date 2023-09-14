@@ -58,4 +58,15 @@
 - "*Sentei-me primeira fila, **para que** pudesse ouvir melhor*"
 - Conjunções finais: para que, a fim de que, que, porque, etc.
 ### Adjetivas
+- Tem como função caracterizar a oração principal, ser como adjetivo
+- ==Não são ligadas por conjunções==
+	- São ligadas por ==pronomes relativos==
+		- que, quem, cujo, cuja, a qual
+#### Explicativa
+- Se refere **ao todo da oração**
+	- *"Os jogadores de futebol, ==que são iniciantes==, não recebem salários"*
+		- Troca o "que" por outro pronome relativo e veja se mantém o sentido, se sim, então ele é um pronome relativo
+#### Restritiva
+- Se refere **à uma parte do todo**
+	- *"Os artistas que declaram seu voto foram criticados."*
 ### Substantivas
