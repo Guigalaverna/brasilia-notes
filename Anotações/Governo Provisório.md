@@ -1,5 +1,5 @@
 # Governo Provisório
-#governo-provisório #história #era-vargas
+#governo-provisório #história #era-vargas #brasil 
 ## Governo Provisório
 - Suspensão da Constituição de 1981
 	- Vargas achava que a constituição dava muito autonomia pros estados

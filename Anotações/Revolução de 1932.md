@@ -1,5 +1,5 @@
 # Revolução de 1932
-#era-vargas #história 
+#era-vargas #história #brasil 
 ## Antecedentes (1929)
 - Falta de acordo sobre a sucessão de Washington Luís
 - Paulistas -> Júlio Prestes
