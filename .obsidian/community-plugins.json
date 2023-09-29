@@ -3,5 +3,6 @@
   "obsidian-plugin-toc",
   "obsidian-style-settings",
   "obsidian-outliner",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "url-into-selection"
 ]
